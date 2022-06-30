@@ -1,0 +1,30 @@
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #f5c84c;
+    width: 35%;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.row>img {
+    border-radius: 50%;
+    max-width: 120px;
+    max-height: 120px;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin-left: 20px;
+}
+
+.description p,
+h4 {
+    text-align: left;
+    margin: 5px;
+}

@@ -1,0 +1,8 @@
+hr {
+    border-top: 5px dotted #ad5434;
+    border-bottom: hidden;
+    border-right: hidden;
+    border-left: hidden;
+    width: 500px;
+    margin-bottom: 30px;
+}
